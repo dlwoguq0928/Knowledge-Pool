@@ -28,8 +28,8 @@ Knowledge-Pool는 이러한 일을 막기 위해 옳고 진실된 정보를 제�
 
 ## Team
 
-- 이재협
 - 장한수
+- 이재협
 
 ## Roadmap
 
